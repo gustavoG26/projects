@@ -1,4 +1,4 @@
 # Projects
 Gustavo Guijarro's projects
 
-HackCU NiteLite Project https://devpost.com/software/social-impact-project
+Check out [my portfolio]([https://www.example.com](https://devpost.com/software/social-impact-project))
